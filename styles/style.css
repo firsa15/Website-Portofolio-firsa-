@@ -150,7 +150,7 @@ nav ul li a{
     color: var(--primaryIconColor);
 }
 .hero.right img{
-    width: 90%;
+    width: 80%;
 }
 .hero-right{
     display: flex;
